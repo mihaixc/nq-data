@@ -1,13 +1,12 @@
 # NQ session files
 
-- data/1m/NQ_2026-11-02_1m.csv
 - data/1m/NQ_2026-11-03_1m.csv
 - data/1m/NQ_2026-11-04_1m.csv
 - data/1m/NQ_2026-11-05_1m.csv
 - data/1m/NQ_2026-11-06_1m.csv
 - data/1m/NQ_2026-11-09_1m.csv
 - data/1m/NQ_2026-11-10_1m.csv
-- data/5m/NQ_2026-08-31_5m.csv
+- data/1m/NQ_2026-11-11_1m.csv
 - data/5m/NQ_2026-09-01_5m.csv
 - data/5m/NQ_2026-09-02_5m.csv
 - data/5m/NQ_2026-09-03_5m.csv
@@ -58,3 +57,4 @@
 - data/5m/NQ_2026-11-06_5m.csv
 - data/5m/NQ_2026-11-09_5m.csv
 - data/5m/NQ_2026-11-10_5m.csv
+- data/5m/NQ_2026-11-11_5m.csv
