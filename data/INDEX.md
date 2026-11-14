@@ -1,13 +1,11 @@
 # NQ session files
 
-- data/1m/NQ_2026-11-05_1m.csv
 - data/1m/NQ_2026-11-06_1m.csv
 - data/1m/NQ_2026-11-09_1m.csv
 - data/1m/NQ_2026-11-10_1m.csv
 - data/1m/NQ_2026-11-11_1m.csv
 - data/1m/NQ_2026-11-12_1m.csv
 - data/1m/NQ_2026-11-13_1m.csv
-- data/5m/NQ_2026-09-03_5m.csv
 - data/5m/NQ_2026-09-04_5m.csv
 - data/5m/NQ_2026-09-08_5m.csv
 - data/5m/NQ_2026-09-09_5m.csv
