@@ -6,6 +6,7 @@
 - data/1m/NQ_2026-11-23_1m.csv
 - data/1m/NQ_2026-11-24_1m.csv
 - data/1m/NQ_2026-11-25_1m.csv
+- data/1m/NQ_2026-11-26_1m.csv
 - data/5m/NQ_2026-09-17_5m.csv
 - data/5m/NQ_2026-09-18_5m.csv
 - data/5m/NQ_2026-09-21_5m.csv
@@ -56,3 +57,4 @@
 - data/5m/NQ_2026-11-23_5m.csv
 - data/5m/NQ_2026-11-24_5m.csv
 - data/5m/NQ_2026-11-25_5m.csv
+- data/5m/NQ_2026-11-26_5m.csv
